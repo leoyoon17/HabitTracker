@@ -28,7 +28,7 @@ public class HabitMainActivity extends AppCompatActivity {
     private EditText bodyText;
     private ListView mainHabitList;
     private ArrayList<Habit> habitList = new ArrayList<Habit>();
-    private ArrayAdapter<Habit> adapter;
+    private ArrayAdapter<Habit> adapter; // going to be used later when we implement buttons
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -9,7 +9,7 @@ import java.util.Collection;
 public class HabitList {
     protected ArrayList<Habit> habitList;
     public HabitList(){
-        habitList= new ArrayList<Habit>();
+        habitList = new ArrayList<Habit>();
     }
 
     public Collection<Habit> getHabits() {
