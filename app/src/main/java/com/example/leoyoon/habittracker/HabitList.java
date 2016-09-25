@@ -1,6 +1,5 @@
 package com.example.leoyoon.habittracker;
 
-
 import java.util.ArrayList;
 import java.util.Collection;
 
@@ -24,4 +23,5 @@ public class HabitList {
     public void removeHabit(Habit habit) {
         habitList.remove(habit);
     }
+
 }
