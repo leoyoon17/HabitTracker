@@ -22,7 +22,6 @@
         android:layout_below="@+id/habitNameText"
         android:background="@android:color/holo_red_light"
         android:textColor="@android:color/white"
-        android:nestedScrollingEnabled="false"
         android:textOff="S"
         android:textOn="S"
         android:layout_alignParentStart="false" />
